@@ -1,0 +1,19 @@
+{
+  "name": "starbound",
+  "version": "0.1.0",
+  "description": "Package for loading Starbound resources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blixt/js-starbound.git"
+  },
+  "author": "Blixt <me@blixt.nyc>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blixt/js-starbound/issues"
+  },
+  "homepage": "https://github.com/blixt/js-starbound#readme"
+}
